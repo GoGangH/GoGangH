@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto)
 <div align=center>
   
 ### Hello, I am GoGangH 😎
