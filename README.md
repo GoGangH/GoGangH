@@ -4,7 +4,7 @@
 ### Hello, I am GoGangH 😎
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoGangH)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singun11@gmail.com)](mailto:zlzn1020@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zlzn1020@gmail.com)](mailto:zlzn1020@gmail.com)
   
 ### My Profiles
 
