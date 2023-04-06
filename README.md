@@ -36,6 +36,6 @@
 	
 - KMU University Computer Science (2019.03 ~ )
 - army (2020.03 ~ 2021.07)
-- Team Lead. SoftwareMaestro 13 / [Team Never] Music Outo Tagging NLP AI [SWMaestor.org]([https://plkey.app](https://www.swmaestro.org/sw/main/main.do)) (2022.03 ~ 2022.12)
+- Team Lead. SoftwareMaestro 13 / Music Outo Tagging NLP AI (2022.03 ~ 2022.12)
 - Intern. Inspien / B2B EDI Platform (2023.03 ~)
 </div>
