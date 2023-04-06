@@ -5,12 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoGangH)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zlzn1020@gmail.com)](mailto:zlzn1020@gmail.com)
-	<div align=left>
-- KMU University Computer Science (2019.03 ~ )
-- army (2020.03 ~ 2021.07)
-- Team Lead. SoftwareMaestro 13 / [Team Never] Music Outo Tagging NLP AI [SWMaestor.org]([https://plkey.app](https://www.swmaestro.org/sw/main/main.do)) (2022.03 ~ 2022.12)
-- Intern. Inspien / B2B EDI Platform (2023.03 ~)
- <div align=center>
+	 
 ### My Profiles
 
 <a href="https://programmers.co.kr/pr/rhrkd1020">
@@ -36,3 +31,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=GoGangH&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
+
+<div align=left>
+- KMU University Computer Science (2019.03 ~ )
+- army (2020.03 ~ 2021.07)
+- Team Lead. SoftwareMaestro 13 / [Team Never] Music Outo Tagging NLP AI [SWMaestor.org]([https://plkey.app](https://www.swmaestro.org/sw/main/main.do)) (2022.03 ~ 2022.12)
+- Intern. Inspien / B2B EDI Platform (2023.03 ~)
+	</div>
