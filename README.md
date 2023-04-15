@@ -29,6 +29,9 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GoGangH&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoGangH)](https://github.com/GoGangH/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhrkd1020)](https://solved.ac/rhrkd1020/)
   
 </div>
 
@@ -39,6 +42,3 @@
 - Team Lead. SoftwareMaestro 13 / Music Outo Tagging NLP AI (2022.03 ~ 2022.12)
 - Intern. Inspien / B2B EDI Platform (2023.03 ~)
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoGangH)](https://github.com/GoGangH/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhrkd1020)](https://solved.ac/rhrkd1020/)
