@@ -39,3 +39,6 @@
 - Team Lead. SoftwareMaestro 13 / Music Outo Tagging NLP AI (2022.03 ~ 2022.12)
 - Intern. Inspien / B2B EDI Platform (2023.03 ~)
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoGangH)](https://github.com/GoGangH/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhrkd1020)](https://solved.ac/rhrkd1020/)
