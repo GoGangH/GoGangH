@@ -30,7 +30,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GoGangH&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoGangH)](https://github.com/GoGangH/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GoGangH&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoGangH&layout=compact&theme=tokyonight)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhrkd1020)](https://solved.ac/rhrkd1020/)
   
 </div>
