@@ -8,9 +8,6 @@
 	 
 ### My Profiles
 
-<a href="https://programmers.co.kr/pr/rhrkd1020">
-	<img src="https://github.com/musseuk/musseuk/blob/main/programmers.png" width="64" height="64">
-</a>
 <a href="https://www.instagram.com/go_gangh/">
 	<img src="https://github.com/musseuk/musseuk/blob/main/instagram.png" width="64" height="64">
 </a>
