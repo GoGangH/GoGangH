@@ -8,9 +8,6 @@
 	 
 ### My Profiles
 
-<a href="https://www.instagram.com/go_gangh/">
-	<img src="https://github.com/musseuk/musseuk/blob/main/instagram.png" width="64" height="64">
-</a>
   
 ### 🚀 Skills 
 
