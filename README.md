@@ -33,5 +33,6 @@
 - army (2020.03 ~ 2021.07)
 - Team Lead. SoftwareMaestro 13 / Music Outo Tagging NLP AI (2022.03 ~ 2022.12)
 - Intern. Inspien / B2B EDI Platform (2023.03 ~ 06.22)
-- Python Developer / Advertising company NWCOMMS (2023.07 ~ )
+- Python Developer / Advertising company NWCOMMS (2023.07 ~ 24.06)
+- FullStack Developer / Web3 company Hashscape (24.07 ~ )
 </div>
