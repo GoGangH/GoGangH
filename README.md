@@ -35,7 +35,7 @@
 - Intern. Inspien / B2B EDI Platform (2023.03 ~ 06.22)
 - Python Developer / Advertising company NWCOMMS (2023.07 ~ 24.06)
 - Fullstack Developer / Hashscape (24.07 ~ 25.06)
-  • Joined as an early team member and led backend, frontend, architecture, and smart contract development
-  • Officially recognized as co-founder-level from Dec 2024
-  • Took ownership in product direction, Web3 strategy, and core team decisions
+	- Joined as an early team member and led backend, frontend, architecture, and smart contract development
+	- Officially recognized as co-founder-level from Dec 2024
+	- Took ownership in product direction, Web3 strategy, and core team decisions
 </div>
