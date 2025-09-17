@@ -38,4 +38,8 @@
 	- Joined as an early team member and led backend, frontend, architecture, and smart contract development
 	- Officially recognized as co-founder-level from Dec 2024
 	- Took ownership in product direction, Web3 strategy, and core team decisions
+- Fullstack Developer (part time) / Graphic (25.07 ~ 25.09)
+	- Automated community post crawling and added a feature to create posts using URLs within the site.
+	- Deployed Selenium on an EC2 environment and built an API using FastAPI.
+	- Developed a graphic admin page front-end and connected it to the API.
 </div>
