@@ -102,5 +102,5 @@
 
 ## 🎓 Education
 
-- **Kookmin University**, Computer Science (2019.03 – )
+- **Kookmin University**, Computer Science (2019.03 – 2026.02, Special Talent Admission)
 - **Military** (2020.03 – 2021.09)
